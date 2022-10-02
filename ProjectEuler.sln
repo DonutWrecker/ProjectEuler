@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7_10001stPrime", "P7_10001
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8_LargestProductInASeries", "P8_LargestProductInASeries\P8_LargestProductInASeries.csproj", "{306A298E-AAE0-4ABD-8119-FC1156658355}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_SpecialPythagoreanTriplet", "P9_SpecialPythagoreanTriplet\P9_SpecialPythagoreanTriplet.csproj", "{29712127-B870-4F45-B1B7-639B7DA92F20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{306A298E-AAE0-4ABD-8119-FC1156658355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{306A298E-AAE0-4ABD-8119-FC1156658355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{306A298E-AAE0-4ABD-8119-FC1156658355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29712127-B870-4F45-B1B7-639B7DA92F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29712127-B870-4F45-B1B7-639B7DA92F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29712127-B870-4F45-B1B7-639B7DA92F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29712127-B870-4F45-B1B7-639B7DA92F20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
