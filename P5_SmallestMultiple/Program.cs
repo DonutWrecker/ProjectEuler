@@ -192,7 +192,6 @@ static int DetermineMaxNumPrimeFactors(ulong[] numbers)
                     if (!primeExists)
                     {
                         primeFactors[primeFactorCounter] = divisor;
-                        primeExists = true;
                         ++primeFactorCounter;
                     }
 
