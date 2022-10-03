@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_HighlyDivisibleTriangul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13_LargeSum", "P13_LargeSum\P13_LargeSum.csproj", "{9CFEE02D-A31D-4DE7-AA4C-62051D3A1A7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14_LongestCollatzSequence", "P14_LongestCollatzSequence\P14_LongestCollatzSequence.csproj", "{9FE777B6-AB66-4BB3-8E48-3633C2562C03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{9CFEE02D-A31D-4DE7-AA4C-62051D3A1A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CFEE02D-A31D-4DE7-AA4C-62051D3A1A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CFEE02D-A31D-4DE7-AA4C-62051D3A1A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE777B6-AB66-4BB3-8E48-3633C2562C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE777B6-AB66-4BB3-8E48-3633C2562C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE777B6-AB66-4BB3-8E48-3633C2562C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE777B6-AB66-4BB3-8E48-3633C2562C03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
