@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10_SummationOfPrimes", "P1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11_LargestProductInAGrid", "P11_LargestProductInAGrid\P11_LargestProductInAGrid.csproj", "{7847523E-709A-4560-A37B-E5B24C0DF7D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_HighlyDivisibleTriangularNumber", "P12_HighlyDivisibleTriangularNumber\P12_HighlyDivisibleTriangularNumber.csproj", "{543EA6D2-1C8A-4882-A92B-45D4935F5E2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P12_HighlyDivisibleTriangularNumber", "P12_HighlyDivisibleTriangularNumber\P12_HighlyDivisibleTriangularNumber.csproj", "{543EA6D2-1C8A-4882-A92B-45D4935F5E2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13_LargeSum", "P13_LargeSum\P13_LargeSum.csproj", "{9CFEE02D-A31D-4DE7-AA4C-62051D3A1A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P13_LargeSum", "P13_LargeSum\P13_LargeSum.csproj", "{9CFEE02D-A31D-4DE7-AA4C-62051D3A1A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14_LongestCollatzSequence", "P14_LongestCollatzSequence\P14_LongestCollatzSequence.csproj", "{9FE777B6-AB66-4BB3-8E48-3633C2562C03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14_LongestCollatzSequence", "P14_LongestCollatzSequence\P14_LongestCollatzSequence.csproj", "{9FE777B6-AB66-4BB3-8E48-3633C2562C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15_LatticePaths", "P15_LatticePaths\P15_LatticePaths.csproj", "{ACA2CA2D-7B9D-446C-9E86-14E8D5B25C39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{9FE777B6-AB66-4BB3-8E48-3633C2562C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FE777B6-AB66-4BB3-8E48-3633C2562C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FE777B6-AB66-4BB3-8E48-3633C2562C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA2CA2D-7B9D-446C-9E86-14E8D5B25C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA2CA2D-7B9D-446C-9E86-14E8D5B25C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA2CA2D-7B9D-446C-9E86-14E8D5B25C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA2CA2D-7B9D-446C-9E86-14E8D5B25C39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
