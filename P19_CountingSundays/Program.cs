@@ -3,7 +3,8 @@ Console.WriteLine($"{numSundays} Sundays fell on the first of the month during 2
 
 static int CountDayOfTheWeek(int dayOfTheWeek, int day, int month, int year, int baseDayOfTheWeek = 1, int baseDay = 1, int baseMonth = 1, int baseYear = 1900)
 {
-    /* Return Values
+    /* 
+     * Days of the Week
      * 
      *  1: Monday
      *  2: Tuesday
@@ -12,7 +13,6 @@ static int CountDayOfTheWeek(int dayOfTheWeek, int day, int month, int year, int
      *  5: Friday
      *  6: Saturday
      *  7: Sunday
-     * -1: N/A
      */
 
     if (year < baseYear) return -1;
