@@ -33,11 +33,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14_LongestCollatzSequence"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15_LatticePaths", "P15_LatticePaths\P15_LatticePaths.csproj", "{ACA2CA2D-7B9D-446C-9E86-14E8D5B25C39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16_PowerDigitSum", "P16_PowerDigitSum\P16_PowerDigitSum.csproj", "{E604B170-8F12-47A3-80B1-50E81AD660CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P16_PowerDigitSum", "P16_PowerDigitSum\P16_PowerDigitSum.csproj", "{E604B170-8F12-47A3-80B1-50E81AD660CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17_NumberLetterCounts", "P17_NumberLetterCounts\P17_NumberLetterCounts.csproj", "{B220297B-8173-4E83-8DD9-FF4550C83322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P17_NumberLetterCounts", "P17_NumberLetterCounts\P17_NumberLetterCounts.csproj", "{B220297B-8173-4E83-8DD9-FF4550C83322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P18_MaximumPathSumI", "P18_MaximumPathSumI\P18_MaximumPathSumI.csproj", "{5E9E26F3-857E-4E55-9A9C-57DAA5FC4502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P18_MaximumPathSumI", "P18_MaximumPathSumI\P18_MaximumPathSumI.csproj", "{5E9E26F3-857E-4E55-9A9C-57DAA5FC4502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P19_CountingSundays", "P19_CountingSundays\P19_CountingSundays.csproj", "{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{5E9E26F3-857E-4E55-9A9C-57DAA5FC4502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E9E26F3-857E-4E55-9A9C-57DAA5FC4502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E9E26F3-857E-4E55-9A9C-57DAA5FC4502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
