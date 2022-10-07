@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P17_NumberLetterCounts", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P18_MaximumPathSumI", "P18_MaximumPathSumI\P18_MaximumPathSumI.csproj", "{5E9E26F3-857E-4E55-9A9C-57DAA5FC4502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P19_CountingSundays", "P19_CountingSundays\P19_CountingSundays.csproj", "{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P19_CountingSundays", "P19_CountingSundays\P19_CountingSundays.csproj", "{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P20_FactorialDigitSum", "P20_FactorialDigitSum\P20_FactorialDigitSum.csproj", "{E9A57719-5C1A-46C8-A275-4E5946F10F98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{479F0084-8C4F-48BB-A9B8-63FF9F87CB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A57719-5C1A-46C8-A275-4E5946F10F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A57719-5C1A-46C8-A275-4E5946F10F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A57719-5C1A-46C8-A275-4E5946F10F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A57719-5C1A-46C8-A275-4E5946F10F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
